@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>小狐狸 - Tag - My Hugo FixIt Site</title>
+    <link>http://blog.godot2d.org/en/tags/%E5%B0%8F%E7%8B%90%E7%8B%B8/</link>
+    <description>小狐狸 - Tag - My Hugo FixIt Site</description>
+    <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 21 Sep 2023 16:17:49 &#43;0800</lastBuildDate><atom:link href="http://blog.godot2d.org/en/tags/%E5%B0%8F%E7%8B%90%E7%8B%B8/" rel="self" type="application/rss+xml" /><item>
+  <title>2d小狐狸-01</title>
+  <link>http://blog.godot2d.org/en/posts/2dlittlefox-01/</link>
+  <pubDate>Thu, 21 Sep 2023 16:17:49 &#43;0800</pubDate>
+  <author>Author</author>
+  <guid>http://blog.godot2d.org/en/posts/2dlittlefox-01/</guid>
+  <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
