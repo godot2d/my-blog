@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>Categories - 分类 - My Hugo FixIt 中文站点</title>
+    <title>Categories - 分类 - Godot2d.org中文站点</title>
     <link>http://blog.godot2d.org/categories/</link>
-    <description>Categories - 分类 - My Hugo FixIt 中文站点</description>
+    <description>Categories - 分类 - Godot2d.org中文站点</description>
     <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Thu, 21 Sep 2023 16:17:49 &#43;0800</lastBuildDate><atom:link href="http://blog.godot2d.org/categories/" rel="self" type="application/rss+xml" /><item>
   <title>2d小狐狸</title>
   <link>http://blog.godot2d.org/categories/2d%E5%B0%8F%E7%8B%90%E7%8B%B8/</link>
