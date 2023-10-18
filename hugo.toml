@@ -66,7 +66,7 @@ theme = "FixIt"
 [languages]
   [languages.en]
     weight = 1
-    title = "My Hugo FixIt Site"
+    title = "Godot2d.org Site"
     languageCode = "en"
     languageName = "English"
     [[languages.en.menu.main]]
@@ -96,7 +96,7 @@ theme = "FixIt"
 
   [languages.zh-cn]
     weight = 2
-    title = "My Hugo FixIt 中文站点"
+    title = "Godot2d.org中文站点"
     # 网站语言，仅在这里 CN 大写
     languageCode = "zh-CN"
     languageName = "简体中文"
