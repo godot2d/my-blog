@@ -52,6 +52,9 @@ repost:
 - [https://godotengine.org/download/windows/](https://godotengine.org/download/windows/)
 ![](/img/godotdownload.png)
 
+- 如果下载太慢可以网盘下载
+[https://wwy.lanzouj.com/ix4rD1c5ljuj](https://wwy.lanzouj.com/ix4rD1c5ljuj)
+
 
 - 如果你是macos或者Linux可以往下滑点击对应的平台下载，Macos M1和英特尔安装包是通用的
 ![](/img/dw2.png)
@@ -76,3 +79,8 @@ repost:
 
 - 不出意外的话，你应该能看见和我一样的界面，它长这样
 ![](/img/xhl3.png)
+
+## 最后有不懂的在交流群里问
+交流群链接,电脑如果提示升级QQ版本，可以试试用手机访问链接
+
+[https://pd.qq.com/s/2uskh2pef](https://pd.qq.com/s/2uskh2pef)
